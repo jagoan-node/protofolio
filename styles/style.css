@@ -200,6 +200,10 @@ nav ul li a {
   display: flex;
   justify-content: center;
 }
+.circle-image {
+    border-radius: 100%;
+    object-fit: cover;
+}
 
 /* Services Section */
 #services {
